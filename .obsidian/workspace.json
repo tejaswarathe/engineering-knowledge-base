@@ -11,10 +11,14 @@
             "id": "b17edc7ddbd50a60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System Design/High level Design/Design a Key-Value Store.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Design a Key-Value Store"
             }
           }
         ]
@@ -159,10 +163,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "03b7343ccc015488",
+  "active": "b17edc7ddbd50a60",
   "lastOpenFiles": [
-    "DS & Algo",
+    "README.md",
     "System Design/High level Design/Design a Key-Value Store.md",
+    "DS & Algo",
     "System Design/High level Design",
     "System Design"
   ]
