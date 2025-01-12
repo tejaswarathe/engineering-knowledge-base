@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/High level Design/Design a Key-Value Store.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design a Key-Value Store"
+              "title": "README"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "b17edc7ddbd50a60",
   "lastOpenFiles": [
-    "README.md",
     "System Design/High level Design/Design a Key-Value Store.md",
+    "README.md",
     "DS & Algo",
     "System Design/High level Design",
     "System Design"
