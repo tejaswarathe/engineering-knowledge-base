@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "2b1587132aad872b",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc57e26eb516e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ef8191820103428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/High level Design/Design a Key-Value Store.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design a Key-Value Store"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bdb3837649c3d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "823d46b0851af515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03b7343ccc015488",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f157630775fa8712",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "06a1da21857c3ada",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "953ff47848fe4f99",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07a6bd502036054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b023a28497887b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System Design/High level Design/Design a Key-Value Store.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Design a Key-Value Store"
+            }
+          },
+          {
+            "id": "0dc9c72477d5f148",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System Design/High level Design/Design a Key-Value Store.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Design a Key-Value Store"
+            }
+          },
+          {
+            "id": "596b6d8f6ff01f55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57774c1af032b998",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System Design/High level Design/Design a Key-Value Store.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Design a Key-Value Store"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03b7343ccc015488",
+  "lastOpenFiles": [
+    "DS & Algo",
+    "System Design/High level Design/Design a Key-Value Store.md",
+    "System Design/High level Design",
+    "System Design"
+  ]
+}
