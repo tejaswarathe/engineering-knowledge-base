@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df71ca91f4d9d6ae",
+        "id": "09dd6ea85e69c9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "594d46f1e009dbac",
+            "id": "df1313b29e11a34d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,10 +159,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "03b7343ccc015488",
+  "active": "df1313b29e11a34d",
   "lastOpenFiles": [
-    "DS & Algo",
     "System Design/High level Design/Design a Key-Value Store.md",
+    "System Design/High level Design/test 123.md",
+    "DS & Algo/Test 234.md",
+    "README.md",
+    "DS & Algo",
     "System Design/High level Design",
     "System Design"
   ]
