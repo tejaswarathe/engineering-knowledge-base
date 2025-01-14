@@ -22,4 +22,3 @@ In this way you can create *1,3,5,....* & *2,4,6,...* for 2 databases.
 
 ###### Drawbacks
 
-
