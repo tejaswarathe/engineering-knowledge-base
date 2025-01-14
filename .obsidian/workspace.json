@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09dd6ea85e69c9d4",
+        "id": "d7b1263e86608aea",
         "type": "tabs",
         "children": [
           {
-            "id": "df1313b29e11a34d",
+            "id": "3aec6d1916b778cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System Design/High level Design/System Design Interview/Chapter 7 - Design A Unique ID Generator in Distributed System.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 7 - Design A Unique ID Generator in Distributed System"
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/High level Design/Design a Key-Value Store.md",
+                "file": "System Design/High level Design/System Design Interview/Chapter 7 - Design A Unique ID Generator in Distributed System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Design a Key-Value Store"
+              "title": "Backlinks for Chapter 7 - Design A Unique ID Generator in Distributed System"
             }
           },
           {
@@ -145,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +162,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "df1313b29e11a34d",
+  "active": "3aec6d1916b778cf",
   "lastOpenFiles": [
-    "System Design/High level Design/Design a Key-Value Store.md",
-    "System Design/High level Design/test 123.md",
-    "DS & Algo/Test 234.md",
+    "Next page.md",
     "README.md",
+    "System Design/High level Design/System Design Interview/Chapter 7 - Design A Unique ID Generator in Distributed System.md",
+    "System Design Interview Book.md",
+    "System Design/High level Design/High Level Design.md",
+    "DS & Algo.md",
+    "System Design/System Design.md",
+    "Untitled.md",
+    "DS & Algo/Graph.md",
+    "System Design/High level Design/System Design Interview/Next page.md",
+    "DS & Algo/Test 234.md",
+    "System Design/High level Design/System Design Interview/Chapter 6 - Design a Key-Value Store.md",
+    "System Design/High level Design/System Design Interview",
     "DS & Algo",
     "System Design/High level Design",
     "System Design"
