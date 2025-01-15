@@ -1,6 +1,6 @@
 {
-  "remoteURL": "https://github.com/tejaswarathe/engineering-knowledge-base.git",
+  "remoteURL": "git@github.com:tejaswarathe/engineering-knowledge-base.git",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 5,
   "isSyncOnLoad": true
 }
