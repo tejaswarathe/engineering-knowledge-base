@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df71ca91f4d9d6ae",
+        "id": "e2ff2a09f22c55e8",
         "type": "tabs",
         "children": [
           {
-            "id": "594d46f1e009dbac",
+            "id": "042a216c445d8fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,17 +163,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "594d46f1e009dbac",
+  "active": "03b7343ccc015488",
   "lastOpenFiles": [
+    "System Design/High Level Design/System Design Interview/Chapter 9 - Design a Web Crawler.md",
     "System Design/High Level Design/System Design Interview/Chapter 8 - Design a Url Shortner.md",
+    "Reliability.md",
+    "System Design/High Level Design/System Design Interview/System Design Interview - Alex Xu.md",
+    "System Design/High Level Design/Designing Data Intensive applications/Chapter 2 - Data Models and Query Languages.md",
+    "System Design/High Level Design/Designing Data Intensive applications/Designing Data Intensive Applications.md",
+    "System Design/High Level Design/High Level Design.md",
+    "System Design/High Level Design/Designing Data Intensive applications",
     "To Learn Later.md",
     "System Design/High Level Design/System Design Interview/Chapter 4 - Design a rate limiter.md",
     "System Design/High Level Design/System Design Interview/Chapter 7 - Design A Unique ID Generator in Distributed System.md",
-    "System Design/High Level Design/System Design Interview/System Design Interview - Alex Xu.md",
     "System Design/System Design.md",
     "System Design/Low Level design/Low Level Design.md",
     "System Design/Low Level design",
-    "System Design/High Level Design/High Level Design.md",
     "DS & Algo/DS & Algo.md",
     "README.md",
     "System Design/High Level Design/System Design Interview/Chapter 6 - Design a Key-Value Store.md",

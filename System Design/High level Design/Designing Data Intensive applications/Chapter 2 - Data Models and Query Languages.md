@@ -1,0 +1,1 @@
+Today's Goal - read from page 42 → 64 (22 Pages)
