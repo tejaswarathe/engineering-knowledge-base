@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/High Level Design/System Design Interview/System Design Interview - Alex Xu.md",
+                "file": "System Design/High Level Design/System Design Interview/Chapter 9 - Design a Web Crawler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design Interview - Alex Xu"
+              "title": "Chapter 9 - Design a Web Crawler"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "042a216c445d8fc6",
   "lastOpenFiles": [
-    "System Design/High Level Design/System Design Interview/Chapter 10 - Design a Notification System.md",
     "System Design/High Level Design/System Design Interview/System Design Interview - Alex Xu.md",
+    "System Design/High Level Design/System Design Interview/Chapter 10 - Design a Notification System.md",
     "System Design/High Level Design/System Design Interview/Chapter 9 - Design a Web Crawler.md",
     "System Design/High Level Design/System Design Interview/Chapter 8 - Design a Url Shortner.md",
     "Reliability.md",
